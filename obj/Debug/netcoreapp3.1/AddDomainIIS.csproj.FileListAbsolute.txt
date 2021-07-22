@@ -1,0 +1,17 @@
+D:\Github\AddDomainIIS\bin\Debug\netcoreapp3.1\AddDomainIIS.exe
+D:\Github\AddDomainIIS\obj\Debug\netcoreapp3.1\AddDomainIIS.csprojAssemblyReference.cache
+D:\Github\AddDomainIIS\obj\Debug\netcoreapp3.1\AddDomainIIS.AssemblyInfoInputs.cache
+D:\Github\AddDomainIIS\obj\Debug\netcoreapp3.1\AddDomainIIS.AssemblyInfo.cs
+D:\Github\AddDomainIIS\bin\Debug\netcoreapp3.1\AddDomainIIS.deps.json
+D:\Github\AddDomainIIS\bin\Debug\netcoreapp3.1\AddDomainIIS.runtimeconfig.json
+D:\Github\AddDomainIIS\bin\Debug\netcoreapp3.1\AddDomainIIS.runtimeconfig.dev.json
+D:\Github\AddDomainIIS\bin\Debug\netcoreapp3.1\AddDomainIIS.dll
+D:\Github\AddDomainIIS\bin\Debug\netcoreapp3.1\AddDomainIIS.pdb
+D:\Github\AddDomainIIS\bin\Debug\netcoreapp3.1\Microsoft.Web.Administration.dll
+D:\Github\AddDomainIIS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.5\System.ServiceProcess.ServiceController.dll
+D:\Github\AddDomainIIS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.5\System.ServiceProcess.ServiceController.dll
+D:\Github\AddDomainIIS\obj\Debug\netcoreapp3.1\AddDomainIIS.csproj.CoreCompileInputs.cache
+D:\Github\AddDomainIIS\obj\Debug\netcoreapp3.1\AddDomainIIS.csproj.CopyComplete
+D:\Github\AddDomainIIS\obj\Debug\netcoreapp3.1\AddDomainIIS.dll
+D:\Github\AddDomainIIS\obj\Debug\netcoreapp3.1\AddDomainIIS.pdb
+D:\Github\AddDomainIIS\obj\Debug\netcoreapp3.1\AddDomainIIS.genruntimeconfig.cache
